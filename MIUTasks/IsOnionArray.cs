@@ -1,6 +1,6 @@
 static int IsOnionArray(int[] arr)
 {
-    if (arr == null && arr.Length == 0) return 0;
+    if (arr == null || arr.Length == 0) return 0;
 
     int k = arr.Length - 1;
     int pairs = arr.Length / 2;
