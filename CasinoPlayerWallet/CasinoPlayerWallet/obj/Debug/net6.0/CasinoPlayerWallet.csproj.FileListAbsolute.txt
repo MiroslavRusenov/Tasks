@@ -1,0 +1,14 @@
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\CasinoPlayerWallet.exe
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\CasinoPlayerWallet.deps.json
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\CasinoPlayerWallet.runtimeconfig.json
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\CasinoPlayerWallet.dll
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\ref\CasinoPlayerWallet.dll
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\bin\Debug\net6.0\CasinoPlayerWallet.pdb
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.AssemblyInfoInputs.cache
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.AssemblyInfo.cs
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.csproj.CoreCompileInputs.cache
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.dll
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\ref\CasinoPlayerWallet.dll
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.pdb
+C:\Users\ZethoSS\source\repos\CasinoPlayerWallet\CasinoPlayerWallet\obj\Debug\net6.0\CasinoPlayerWallet.genruntimeconfig.cache
